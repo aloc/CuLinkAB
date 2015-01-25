@@ -1,0 +1,5 @@
+Saker att jobba med 
+-> kompetenser med viktning
+-> Grupper är nu community links
+-> Setup Github
+-> Geografiska avgränsning, iaf en stad
